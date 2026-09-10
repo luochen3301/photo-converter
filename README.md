@@ -15,7 +15,7 @@
 
 ## 🚀 使用
 
-从 [Releases](../../releases) 下载解压后双击 `图片转换助手.exe`（无需安装 Python）。
+从 [Releases](../../releases) 下载后双击 `图片转换助手.exe`（单文件版，无需安装 Python，可放任意位置）。
 
 也可以从源码运行：
 
@@ -24,9 +24,9 @@ pip install PyQt6 Pillow
 python main.py
 ```
 
-## 🛠️ 从源码打包 exe
+## 🛠️ 从源码打包 exe（单文件）
 
-双击 `build.bat`（自动安装 PyInstaller 并生成 `dist/图片转换助手/图片转换助手.exe`）。
+双击 `build.bat`（自动安装 PyInstaller 并生成单文件的 `dist/图片转换助手.exe`）。
 
 ## 📁 项目结构
 
